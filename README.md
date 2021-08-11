@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earl9" alt="earl9" /></a> </p>
 
-- 📝 I regularly write articles on [blog.xpluto.top](blog.xpluto.top)
+- 📝 I regularly write articles on [blog.xpluto.top](https://blog.xpluto.top)
 
 
 <h3 align="left">Languages and Tools:</h3>
