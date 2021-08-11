@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earl9&label=Profile%20views&color=0e75b6&style=flat" alt="earl9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earl9" alt="earl9" /></a> </p>
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/earl9/blog?style=plastic">
 
 - 📝 I regularly write articles on [blog.xpluto.top](https://blog.xpluto.top)
 
